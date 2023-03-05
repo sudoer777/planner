@@ -24,7 +24,7 @@
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.3.1",
     "@mui/lab": "^5.0.0-alpha.67",
-    "@mui/material": "^5.4.0",
+    "@mui/material": "^5.11.8",
     "@next-auth/prisma-adapter": "^1.0.5",
     "@next/bundle-analyzer": "^13.1.6",
     "@prisma/client": "^4.11.0",
